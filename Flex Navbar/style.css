@@ -1,0 +1,38 @@
+.flex {
+    display: flex;
+    justify-content: right;
+    gap: 10px;
+}
+
+.nav-title {
+    color: white;
+    margin-left: 20px;
+    padding-top: 5px;
+}
+
+.nav {
+    background-color: gray;
+    height: 50px;
+    width: 70%;
+}
+
+.position {
+    position: relative;
+    bottom: 50px;
+}
+
+ul {
+    margin-right: 20px;
+    color: white;
+    list-style-type: none;
+}
+
+.btn {
+    background-color: blue;
+    color: white;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
